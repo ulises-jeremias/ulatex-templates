@@ -1,3 +1,3 @@
 # uLatex Templates
 
-Collection of latex templates made by me
+Collection of my own latex templates
