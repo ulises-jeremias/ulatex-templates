@@ -1,2 +1,3 @@
-# ulatex-journal
-Basic latex template to be used as a quickstart for journal documents
+# uLatex Templates
+
+Collection of latex templates made by me
