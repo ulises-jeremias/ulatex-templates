@@ -104,7 +104,7 @@
 %\usepackage[numbers]{natbib} 
 \usepackage[backend=biber,style=nature]{biblatex}
 \DeclareNameAlias{author}{given-family}
-\addbibresource{referencias.bib}
+\addbibresource{references.bib}
 \DeclareFieldFormat{labelnumberwidth}{\mkbibbrackets{#1}}
 \DeclareFieldFormat{journaltitle}{#1\isdot}
 
